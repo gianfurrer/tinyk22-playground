@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Users\gian\hslu\TinyK22\Ueb13_SPI-Datalogger\Ueb13_SPI\Debug\Ueb13_SPI.hex"
+qc
+
+qc
